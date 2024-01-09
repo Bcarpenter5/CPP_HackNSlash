@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bjc1269/Documents/C++/HacknSlash/HacknSlash_build",
+  "command": "/usr/bin/clang++-14  -I/home/bjc1269/Documents/C++/HacknSlash/inc -I/usr/include/SDL2  -o CMakeFiles/HacknSlash.dir/main.cpp.o -c /home/bjc1269/Documents/C++/HacknSlash/main.cpp",
+  "file": "/home/bjc1269/Documents/C++/HacknSlash/main.cpp"
+},
+{
+  "directory": "/home/bjc1269/Documents/C++/HacknSlash/HacknSlash_build",
+  "command": "/usr/bin/clang++-14  -I/home/bjc1269/Documents/C++/HacknSlash/inc -I/usr/include/SDL2  -o CMakeFiles/HacknSlash.dir/src/Game.cpp.o -c /home/bjc1269/Documents/C++/HacknSlash/src/Game.cpp",
+  "file": "/home/bjc1269/Documents/C++/HacknSlash/src/Game.cpp"
+}
+]
